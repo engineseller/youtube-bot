@@ -181,7 +181,7 @@ def save_bandwidth(driver):
 
 
 def change_playback_speed(driver):
-    playback_speed = randint(2, 2)
+    playback_speed = randint(1, 2)
     if playback_speed == 1:
         driver.find_element_by_id('movie_player').send_keys('<' * randint(1, 3))
     elif playback_speed == 2:
