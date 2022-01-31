@@ -25,6 +25,9 @@ Open terminal and run following commands
 ```
 >> cd youtube-bot
 ```
+```
+>> pip3 install -r requirements.txt
+```
 
 ## Run Comments
 ```
@@ -41,7 +44,7 @@ Open terminal and run following commands
 >> python3 dislike.py
 ```
 
-## Run Search Video
+## Run Search
 ```
 >> python3 search.py
 ```
