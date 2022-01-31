@@ -1,6 +1,6 @@
 # Youtube Bot
 ```
-Script can make comments on Youtube.
+Script can add comments on Youtube.
 Script can like or dislike video on Youtube.
 Script can generate views on Youtube.
 Script can search youtube with the keyword you want and find video with video title.
