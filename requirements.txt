@@ -1,0 +1,14 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2021.5.30
+cffi==1.14.6
+click==8.0.1
+requests==2.26.0
+urllib3==1.25.11
+soupsieve==2.2.1
+idna==3.2
+chardet==3.0.4
+selenium==3.141.0
+spintax
+numpy
+webdriver_manager
